@@ -1,0 +1,19 @@
+{
+  "name": "projectenviroment",
+  "version": "1.0.0",
+  "description": "webSiteProjectEnvironment",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "A. B. Raihan",
+  "license": "ISC",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.14.0",
+    "bootstrap": "^4.5.2",
+    "jquery": "^3.5.1"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}
